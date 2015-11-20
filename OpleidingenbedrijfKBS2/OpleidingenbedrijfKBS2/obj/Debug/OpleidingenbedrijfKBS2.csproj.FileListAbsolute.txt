@@ -1,0 +1,10 @@
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\bin\Debug\OpleidingenbedrijfKBS2.exe.config
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\bin\Debug\OpleidingenbedrijfKBS2.exe
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\bin\Debug\OpleidingenbedrijfKBS2.pdb
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.Properties.Resources.resources
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.Startscherm.resources
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.csproj.GenerateResource.Cache
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.exe
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.pdb
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.Cursusbeheer.TestControl.resources
+C:\Users\Damy\Documents\Visual Studio 2015\KBS2\OpleidingenbedrijfKBS2\OpleidingenbedrijfKBS2\obj\Debug\OpleidingenbedrijfKBS2.Hoofdmenu.MenuLeftView.resources
